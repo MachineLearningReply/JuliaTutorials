@@ -1,1 +1,2 @@
 libnss3-dev
+libgtk-3-0
